@@ -1,0 +1,7 @@
+.link-allness {
+  transition: opacity 0.2s linear;
+}
+
+.link-allness:hover {
+  opacity: 0.5;
+}
